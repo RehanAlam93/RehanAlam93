@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **alamrehan0015@gmail.com
 
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rehan Alam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alamrehan0015@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rehan_rahi182)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rehan-alam-00aa18289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alamrehan0015@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rehan_rahi182)
 
 <!-- Snake Game Repo View -->
 
