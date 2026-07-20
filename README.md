@@ -1,16 +1,14 @@
-# 💫 Hi 👋, I'm Rehan Alam
-** Aspiring Data Scientist
+# 💫 Hii , I'm Rehan Alam
+      Aspiring Data Scientist
 
-Email Me 👉 ✉️ **alamrehan0015@gmail.com
+Email Me 👉 ✉️ alamrehan0015@gmail.com
 
 - 🔭 **I’m currently working on Data Science Projects :** Loan Approval Prediction , Used Bike Price Prediction , Medical Disease Prediction , Customer Churn Prediction
 - 🌱 **I’m currently Pursuing :** 6 month Data Science Internship (On Site - present).
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ## 🌐 Social:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rehan-alam-00aa18289)
