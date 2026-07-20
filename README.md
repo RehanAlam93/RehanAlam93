@@ -4,8 +4,7 @@
 Email Me 👉 ✉️ **alamrehan0015@gmail.com
 
 - 🔭 **I’m currently working on Data Science Projects :** Loan Approval Prediction , Used Bike Price Prediction , Medical Disease Prediction , Customer Churn Prediction
-- 🌱 **I’m currently Pursuing :** 6 month Data Science Internship (present).
-- ⚡ **Fun fact:** I Love Learning and Learning Loves Me
+- 🌱 **I’m currently Pursuing :** 6 month Data Science Internship (On-Site - present).
 
 
 ## 🌐 Socials:
