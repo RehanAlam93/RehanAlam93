@@ -10,7 +10,7 @@
 
 
 ## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=simpleicons--linkedin&logoColor=white)](https://www.linkedin.com/in/rehan-alam-00aa18289/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/rehan_rahi182/)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/14pYZeSMDqd/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=simpleicons--linkedin&logoColor=white)](https://www.linkedin.com/in/rehan-alam-00aa18289/).
  
 
 
