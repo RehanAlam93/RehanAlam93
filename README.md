@@ -10,7 +10,7 @@
 
 
 ## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=simpleicons--linkedin&logoColor=white)](https://www.linkedin.com/in/rehan-alam-00aa18289/).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=simpleicons--linkedin&logoColor=white)](https://www.linkedin.com/in/rehan-alam-00aa18289/)
  
 
 
