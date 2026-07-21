@@ -1,16 +1,16 @@
 # 💫  Hii , I'm Rehan Alam
-      Aspiring Data Scientist | Machine Learning | AI Enthusiast
+       Aspiring Data Scientist | Machine Learning | AI Enthusiast
 
-Email Me 👉 ✉️ alamrehan0015@gmail.com
+**Email Me 👉 ✉️ alamrehan0015@gmail.com**
 
 - 🎓 𝐁.𝐓𝐞𝐜𝐡 𝐅𝐢𝐧𝐚𝐥 𝐘𝐞𝐚𝐫 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 (𝟐𝟎𝟐𝟑–𝟐𝟎𝟐𝟕)
 - 🔭 **I’m currently working on Data Science Projects :** Loan Approval Prediction , Used Bike Price Prediction , Medical Disease Prediction , Customer Churn Prediction
-- 🌱 **I’m currently Pursuing :** 6 month Data Science with ML & AI Internship (On Site - present).
+- 🌱 **I’m currently pursuing :** 6 months Training cum internship in  Data Science with ML & AI Internship (On Site - present).
 
 
 
 ## 🌐 Social:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rehan-alam-00aa18289)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=simpleicons--linkedin&logoColor=white)](https://www.linkedin.com/in/rehan-alam-00aa18289/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/rehan_rahi182/)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/14pYZeSMDqd/)
  
 
 
