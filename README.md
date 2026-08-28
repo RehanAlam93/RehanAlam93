@@ -1,4 +1,4 @@
-# 💫  Hii , I'm Rehan Alam
+#   Hii , I'm Rehan Alam
        Aspiring Data Scientist | Machine Learning | AI Enthusiast
 
 **Email Me 👉 ✉️ alamrehan0015@gmail.com**
