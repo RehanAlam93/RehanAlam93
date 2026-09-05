@@ -4,7 +4,8 @@
 **Email Me 👉 ✉️ alamrehan0015@gmail.com**
 
 - 🎓 𝐁.𝐓𝐞𝐜𝐡 𝐅𝐢𝐧𝐚𝐥 𝐘𝐞𝐚𝐫 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 (𝟐𝟎𝟐𝟑–𝟐𝟎𝟐𝟕)
-- 🔭 **I’m currently working on Data Science Projects :** Loan Approval Prediction , Used Bike Price Prediction , Medical Disease Prediction , Customer Churn Prediction
+- 🔭 **I’m currently working on Data Science Projects :** Loan Approval Prediction , Used Bike Price Prediction , Medical Disease Prediction , Customer Churn Prediction, Cloth-Recognition-Project
+
 - 🌱 **I’m currently pursuing :** 6 Months Training Cum Internship in  Data Science with ML & AI  (On Site - present).
 
 
